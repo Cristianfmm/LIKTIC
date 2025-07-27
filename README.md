@@ -9,6 +9,9 @@ Este proyecto implementa dos microservicios independientes usando **Spring Boot*
 - `productos-service` (puerto **8082**): gestiona la creación y consulta de productos.
 - `inventario-service` (puerto **8080**): gestiona el inventario y permite realizar compras consultando productos vía HTTP.
 
+### diagrama
+https://lucid.app/lucidchart/c3e600a8-8f2b-4771-953b-4d80e7166502/edit?viewport_loc=-2520%2C-1384%2C2209%2C1023%2C0_0&invitationId=inv_4514f4e4-9eb8-4b9b-9d24-fcf54b5ac543
+
 Comunicación entre microservicios usando `RestTemplate` con respuesta tipo JSON.
 
 ---
