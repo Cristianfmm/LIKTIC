@@ -58,7 +58,10 @@ Comunicación entre microservicios usando `RestTemplate` con respuesta tipo JSON
 
 ---
 
-## Cómo ejecutar los microservicios
+## Uso de IA
+
+Me apoyé en asistente de IA claude IA y Chat GPT para generar la estructura y ya que no he usado hace un par de tiempo java me ayudó a organizar y revisar errores del proyecto, a crear y revisar el controlador ya que mi objetivo es hacer el direfencial creandolo con modelo vista controlador siendo así mas organizado y entendible el proyecto
+
 
 ### 1. Clona el proyecto
 ```bash
