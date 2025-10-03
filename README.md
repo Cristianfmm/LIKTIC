@@ -1,4 +1,4 @@
-# Prueba Técnica Backend — Microservicios de Productos e Inventario
+#  Microservicios de Productos e Inventario
 
 ## Descripción del Proyecto
 
